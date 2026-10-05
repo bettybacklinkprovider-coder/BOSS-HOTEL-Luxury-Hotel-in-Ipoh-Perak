@@ -1,0 +1,6 @@
+{
+  "name": "BOSS HOTEL — Luxury Hotel in Ipoh, Perak",
+  "description": "Experience comfort, elegance & exceptional hospitality at BOSS HOTEL in Ipoh, Perak, Malaysia. Premium rooms, modern amenities, and prime location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
